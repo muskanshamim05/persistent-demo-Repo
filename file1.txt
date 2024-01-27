@@ -1,2 +1,8 @@
 Hello Muskan!
 greeting, welcome to my world.
+
+Added a function demo2() {
+
+//Do something here to implement demo2.
+
+}
